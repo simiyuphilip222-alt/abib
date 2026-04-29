@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f5f5f7;
+}
+
+table input {
+  padding: 4px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
